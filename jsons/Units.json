@@ -99,7 +99,7 @@
 		"rangedStrength": 85,
 		"cost": 425,
 		"requiredTech": "Telecommunications",
-		"uniques": ["[+85]% Strength <when attacking>", "Can only attack [Water] tiles", "[+1] Sight", "Can carry [3] [Missile] units", "Never appears as a Barbarian unit""],
+		"uniques": ["[+85]% Strength <when attacking>", "Can only attack [Water] tiles", "[+1] Sight", "Can carry [3] [Missile] units", "Never appears as a Barbarian unit"],
 		"attackSound": "torpedo"
 	},
 	{
